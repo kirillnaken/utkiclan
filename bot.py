@@ -3,7 +3,7 @@ from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, CallbackContext
 from datetime import datetime
 
-TOKEN = '8192070018:AAG8sfBcVd10RGjT7ApS4bc3SO28KI-ZI3s'
+TOKEN = '8084562833:AAFoYkwMQ_4x1ur1A9KBDA4PzQQk7g-BZjw'
 GROUP_ID = '-4743904412'
 
 QUESTIONS = [
